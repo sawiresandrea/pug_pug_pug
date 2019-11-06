@@ -1,0 +1,5 @@
+1) nodemon è una libreria che riavvia il server ad ogni modifica, e si usa installandolo
+    nella cartella del progetto
+2) in views
+3) .pug
+4) con "app.use(express.static(__dirname + '/public'));"
