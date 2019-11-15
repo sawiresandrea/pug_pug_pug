@@ -3,3 +3,10 @@
 2) in views
 3) .pug
 4) con "app.use(express.static(__dirname + '/public'));"
+5) app.set('view engine', 'pug');
+6) mette un div
+7) #
+8) .nome-classe{}
+9) si indenta
+10) express.static(__dirname + '/public')
+11) <article class="contenitore">saluti al mondo</article>
