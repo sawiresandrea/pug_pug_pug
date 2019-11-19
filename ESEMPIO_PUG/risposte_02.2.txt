@@ -1,0 +1,4 @@
+1) serve per passare parametri da una pagina html all'altra
+2) Viene individuata la persona con l’id specificato nell’url.
+3) un oggetto javascript
+4) tra i parametri si mette &
