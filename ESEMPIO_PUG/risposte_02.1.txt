@@ -1,0 +1,8 @@
+1) app.set('view engine', 'pug')
+2) Utilizzando un json
+3) java script object notation
+4) con delle coppie chiave-valore
+5) all'interno delle parentesi quadre
+7) come una stringa
+8) esempio: person.lastname
+10) each i in var
